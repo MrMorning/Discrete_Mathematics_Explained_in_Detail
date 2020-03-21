@@ -130,6 +130,16 @@ $$\lceil x\rceil$$
 
 ![](../img/CH02/11.png)
 
+
+
+### Partial Function 部分函数
+
+如果函数$f:A\rightarrow B$并非在domain上每一点都有定义, 我们称这个函数是一个`partial function`. 有定义的点组成的集合, 定义为`domain of definition`.
+
+例子: $f(x) = \sqrt{x}, \mathbb{Z} \to \mathbb{R}$.
+
+
+
 # Sequence 序列
 
 A **sequence** is a function from a subset of the set of intergers (usually either the set {0,1,2,…} or the set {1,2,3,…}) to a set S. We use the notation **$$a_n$$** to denote the image of the image of the integer **n**. We call $$a_n$$ a term of the sequence $$\{a_n\}$$.
